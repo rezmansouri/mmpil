@@ -11,9 +11,3 @@ ANY WARRANTY; without even the implied warranty of MERCHANTABILITY or FITNESS FO
 General Public License for more details.
 
 ***
-
-© 2024 Reza Mansouri, Ziba Khani, Berkay Aydin
-
-[Data Mining Lab](https://dmlab.cs.gsu.edu/)
-
-[Georgia State University](https://www.gsu.edu/)
